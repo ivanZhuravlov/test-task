@@ -1,0 +1,44 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  background-color: #E5E5E5;
+}
+
+p {
+  display: inline;
+  margin: 0;
+}
+
+.light-gray {
+  color: #828B97;
+}
+
+.dark-gray {
+  color: #3E4959;
+}
+
+.mt-half {
+  margin-top: 0.5em;
+}
+
+.mt-1 {
+  margin-top: 1em;
+}
+
+.mt-2 {
+  margin-top: 2em;
+}
+
+.ml-half {
+  margin-left: 0.5em;
+}
+
+.px-2 {
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
